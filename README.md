@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer - Specialized in Frontend
 ---------------------------------------------
 
-Fullstack Developer with a Passion for Frontend and Web Development With years of experience in desktop application development, I have decided to redirect my career towards web development, combining my strong technical foundation with a creative focus on user experience. My goal is to create modern, functional, and visually appealing applications that meet the needs of users. I am constantly learning and adapting to the latest technologies to offer innovative solutions. If you're looking for a committed, curious developer eager to add value, let's talk!
+Fullstack Developer with a Passion for Frontend and Web Development 
+
+With years of experience in desktop application development, I have decided to redirect my career towards web development, combining my strong technical foundation with a creative focus on user experience. My goal is to create modern, functional, and visually appealing applications that meet the needs of users. I am constantly learning and adapting to the latest technologies to offer innovative solutions. 
+
+If you're looking for a committed, curious developer eager to add value, let's talk!
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [marcelorobin@gmail.com](mailto:marcelorobin@gmail.com)
