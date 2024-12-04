@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy MARCELO ANDRE ROBIN
+# ¡Hola! Soy MARCELO ANDRE ROBIN
 
 ## Desarrollador Fullstack Especializado en Frontend
 ---
